@@ -1,0 +1,30 @@
+body{
+    background-color: #FFFFFF
+}
+
+.middle-panel{
+    background-color: #ffffff;
+}
+
+.welcome{
+    color: #068292;
+}
+
+.circle{
+    border-radius: 50% 50%;
+    width: 60px;
+    height: 60px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.circle.red{
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.gradient {
+    background-image: linear-gradient(to right, white , #8CE0EA);
+  }

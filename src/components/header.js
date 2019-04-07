@@ -5,7 +5,7 @@ import { Nav } from 'react-bootstrap';
 class Header extends Component {
     render() {
         return (
-            <Navbar bg="light" expand="lg">
+            <Navbar bg="dark" className="navbar-dark" expand="lg">
                 <Navbar.Brand href="#home">Questioner</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
